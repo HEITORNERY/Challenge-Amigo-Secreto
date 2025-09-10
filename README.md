@@ -49,7 +49,7 @@ O **Amigo Secreto** é uma aplicação desenvolvida em HTML, CSS e JavaScript qu
 https://github.com/user-attachments/assets/c60d4cae-73a7-49d8-a699-623cfb0a6d73
 
 ### 🌐 Acesse a Aplicação
-**[Clique aqui para testar o Amigo Secreto](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)**
+**[Clique aqui para testar o Amigo Secreto](https://heitornery.github.io/Challenge-Amigo-Secreto/)**
 
 ## 🚀 Como Executar Localmente
 
