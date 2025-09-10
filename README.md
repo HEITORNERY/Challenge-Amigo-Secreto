@@ -46,7 +46,7 @@ O **Amigo Secreto** é uma aplicação desenvolvida em HTML, CSS e JavaScript qu
 ### 🎥 Vídeo Demonstrativo
 *Veja o projeto funcionando:*
 
-https://github.com/user-attachments/assets/Gravação de Tela 2025-09-10 112947.mp4
+https://github.com/user-attachments/assets/c60d4cae-73a7-49d8-a699-623cfb0a6d73
 
 ### 🌐 Acesse a Aplicação
 **[Clique aqui para testar o Amigo Secreto](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)**
@@ -60,26 +60,12 @@ https://github.com/user-attachments/assets/Gravação de Tela 2025-09-10 112947.
 
 2. **Entre na pasta do projeto**:
    ```bash
-   cd challenge-amigo-secreto_pt-main
+   cd Challenge-Amigo-Secreto
    ```
 
 3. **Abra o arquivo HTML**:
    - Abra o arquivo `index.html` em seu navegador
    - Ou use uma extensão como Live Server no VS Code
-
-## 📁 Estrutura do Projeto
-
-```
-amigo-secreto/
-│
-├── index.html          # Página principal
-├── style.css           # Estilos da aplicação
-├── app.js              # Lógica JavaScript
-├── assets/             # Imagens e recursos
-│   ├── amigo-secreto.png
-│   └── play_circle_outline.png
-└── README.md           # Documentação
-```
 
 ## 🔧 Principais Funções JavaScript
 
